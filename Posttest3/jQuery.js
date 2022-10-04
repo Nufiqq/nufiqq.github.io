@@ -5,9 +5,9 @@
 // ------------------------------ Dark Mode ------------------------------------
 
 function myFunction() {
+    // Alert
+    alert("Welcome to my web ehe");
+
     var element = document.body;
     element.classList.toggle("dark-mode");
-
-    // Alert
-    alert("Welcome to my dark side awokaowk canda dark side");
  }
